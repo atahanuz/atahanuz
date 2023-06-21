@@ -17,5 +17,5 @@ Here are some of my interest aread if you'd like to chat
 - Finance, especially algorithmic trading
 - Blockchain and cryptocurrencies (though I'm currently bearish on crypto 😂)
 - Classical music
-- Politics and controversial topics, I enjoy debating about them
+- philosophy, history and politics
   
