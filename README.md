@@ -18,4 +18,4 @@ Here are some of my interest areas if you'd like to chat
 - Blockchain and cryptocurrencies (though I'm currently bearish on crypto 😂)
 - Classical music
 
-  
+**_"The light is finite, but the darkness is not"_**
