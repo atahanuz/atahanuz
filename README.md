@@ -4,6 +4,8 @@ Hi, I am Atahan Uz. I'm studying Computer Engineering in Yildiz Technical Univer
 
 My first Google Play app: https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
 
+[My Porfolio](portfolio.md)
+
 ## My interest areas:
 - Algorithmic Trading
 - Finance and Payment Systems
