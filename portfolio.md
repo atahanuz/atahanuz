@@ -20,8 +20,15 @@ Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
     </div>
 <br>
 
-## Python pip Packages
+## Python PIP Libraries
 ### yt2text
 Python library for extracting text from a YouTube video in a single command, using OpenAi's Whisper speech recognition model.<br>
 [PIP](https://pypi.org/project/yt2text/) <br>
 [GitHub](https://github.com/atahanuz/yt2text)
+
+## Java Maven Libraries
+### Incoming!
+
+## Hobby Projects
+
+
