@@ -12,13 +12,6 @@ I'm planning to share some hobby projects. My publications on Github:
 
 
 ## Contact
-You can message me on Github or mail me at atahanuz23@gmail.com.
-Here are some of my interest areas if you'd like to chat
-
-- Computer and software
-- Theoretical Mathematics 
-- Finance, especially algorithmic trading
-- Blockchain and cryptocurrencies (though I'm currently bearish on crypto 😂)
-- Classical music
+You can mail me at atahanuz23@gmaail.com at anytime for anything. 
 
 **_"The light is finite, but the darkness is not"_**
