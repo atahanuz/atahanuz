@@ -4,11 +4,15 @@ Hi, I am Atahan Uz. I'm studying Computer Engineering in Yildiz Technical Univer
 
 My first Google Play app: https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
 
+## My interest areas:
+- Algorithmic Trading
+- Finance and Payment Systems
+- Data Mining § Machine learning
+- Findind exploits & loopholes on systems
+- Theorotical Mathematics
+- Classical Music
+- 
 
-I'm planning to share some hobby projects. My publications on Github:
-- Will provide an utility and/ or be fun.
-- Will be easy to use. I believe many programs on GitHub are unnecessarily complex. If everything can be achieved in a single Python file, you shouldn't ask the user to run 999 terminal commands. Wherever possible, I'll provide a single file that can be run directly and I'll provide all necessary instructions to run the program.
-- Will be clear and modest about what it can/can't do. I won't make extravagant claims.
 
 
 ## Contact
