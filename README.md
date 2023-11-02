@@ -16,6 +16,7 @@ My first Google Play app: https://play.google.com/store/apps/details?id=com.atah
 
 
 ## Contact
-You can mail me at atahanuz23@gmaail.com at anytime for anything. 
+You can mail me at atahanuz23@gmail.com at anytime for anything. 
+If it is about one of my repos, it'd be better if you raise an Issue in the repo. It sends a notification to my phone and everyone can see the discussion.
 
 **_"The light is finite, but the darkness is not"_**
