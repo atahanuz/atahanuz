@@ -14,7 +14,7 @@ Hi, I am Atahan Uz. I'm studying Computer Engineering in Yildiz Technical Univer
 </table>
 
 
-[My Porfolio](portfolio.md)
+### [-- My Porfolio --](portfolio.md)
 
 ## My interest areas:
 - Algorithmic Trading
@@ -29,6 +29,6 @@ Hi, I am Atahan Uz. I'm studying Computer Engineering in Yildiz Technical Univer
 
 ## Contact
 You can mail me at atahanuz23@gmail.com at anytime for anything. 
-If it is about one of my repos, it'd be better if you raise an Issue in the repo. It sends a notification to my phone and everyone can see the discussion.
+If it is about one of my repos, it'd be better if you raise an Issue in the repo as it sends a notification to my phone and everyone can see the discussion.
 
 **_"The light is finite, but the darkness is not"_**
