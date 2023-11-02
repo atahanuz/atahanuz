@@ -2,7 +2,17 @@
 
 Hi, I am Atahan Uz. I'm studying Computer Engineering in Yildiz Technical University
 
-My first Google Play app: https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
+<table>
+  <tr>
+    <td valign="middle">
+      My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
+    </td>
+    <td>
+      <img src="https://i.imgur.com/ht0EV23.png" width="33%" height="14%">
+    </td>
+  </tr>
+</table>
+
 
 [My Porfolio](portfolio.md)
 
