@@ -17,9 +17,10 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 ### [-- Click to view my portfolio --](portfolio.md)
 
 ## My interest areas:
-- Algorithmic Trading
-- Finance and Payment Systems
-- Data Mining § Machine learning
+- Algorithmic Trading on financial markets
+- Portfolio management 
+- Payment Systems and E-commerce
+- Data Mining & Machine learning
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
 - Classical Music
@@ -33,7 +34,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
 - Experince with Decentralized Finance applications on Blockchain networks ( Ethereum, BSC, Solana, Polygon..)
 - Building applications to view information and automate trading on financial markets
-- Customer Service, as I provided customer service to my clients in my small e-commerce business
+- Customer Service, I provided customer service to my clients in my small e-commerce business
 - Writing documentation in English and Turkish, I consider myself a skilled writer.
 
 
