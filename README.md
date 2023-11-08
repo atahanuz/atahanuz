@@ -28,17 +28,18 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - C, Java, Python
 - x86 and ARM Assembly
 - Android development
-- Deploying apllications on Google Cloud
+- Deploying applications on Google Cloud
 - Webscraping with Selenium and machine learning with PyTorch
-- Experience with almost all payment services and trading on any financial market (international stocks, ETFs, crytocurrencies, derivatives...)
+- Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
 - Experince with Decentralized Finance applications on Blockchain networks ( Ethereum, BSC, Solana, Polygon..)
-- Findind exploits and loopholes on financial/e-commerce systems 
+- Building applications to view information and automate trading on financial markets
+- Customer Service, as I provided customer service to my clients in my small e-commerce business
 - Writing documentation in English and Turkish, I consider myself a skilled writer.
 
 
 
 ## Contact
 You can mail me at atahanuz23@gmail.com at anytime for anything. 
-If it is about one of my repos, it'd be better if you raise an Issue in the repo as it sends a notification to my phone and everyone can see the discussion. Offical university mail: atahan.uz@std.yildiz.edu.tr
+If it is about one of my repos, it'd be better if you raise an Issue in the repo so I can provice better help and everyone can see the discussion. Offical university mail: atahan.uz@std.yildiz.edu.tr
 
 **_"The light is finite, but the darkness is not"_**
