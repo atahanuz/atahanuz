@@ -41,6 +41,6 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 
 ## Contact
 You can mail me at atahanuz23@gmail.com at anytime for anything. 
-If it is about one of my repos, it'd be better if you raise an Issue in the repo so I can provice better help and everyone can see the discussion. Offical university mail: atahan.uz@std.yildiz.edu.tr
+If it is about one of my repos, it'd be better if you raise an Issue in the repo so everyone can see and contribute to the discussion. Offical university mail: atahan.uz@std.yildiz.edu.tr
 
 **_"The light is finite, but the darkness is not"_**
