@@ -26,6 +26,11 @@ Python library for extracting text from a YouTube video in a single command, usi
 [PIP](https://pypi.org/project/yt2text/) <br>
 [GitHub](https://github.com/atahanuz/yt2text)
 
+### lol-stats
+Python library to find your League of Legends ranked statistics across all of your accounts.
+[PIP](https://pypi.org/project/lol-stats/) <br>
+[GitHub](https://github.com/atahanuz/lol-stats)
+
 ## Java Maven Libraries
 ### Incoming!
 
