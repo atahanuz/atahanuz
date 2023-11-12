@@ -14,7 +14,8 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 </table>
 
 
-### [-- Click to view my portfolio --](portfolio.md)
+### [--> My Portfolio <--](portfolio.md)
+### [--> My Design Philosophy <--](design_philosophy.md)
 
 ## My interest areas:
 - Algorithmic Trading on financial markets
