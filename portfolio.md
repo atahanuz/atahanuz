@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-Last updated: 2023-11-02
+Last updated: 2023-11-13
 
 ## Mobile Apps:
 ### Easy Stock Data
@@ -39,5 +39,6 @@ An utility for benchmarking sorting algorithms in Java. You can use it to easily
 [GitHub](https://github.com/atahanuz/sorting-benchmark-java)
 
 ## Hobby Projects
+Incoming !
 
 
