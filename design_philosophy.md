@@ -1,6 +1,6 @@
 # My Design Philosophy
 
-When building software, I think it is important to have a solid design philosphy. Here are the principles I'll try my best to adhere:
+When developing software, I believe it's crucial to maintain a solid design philosophy. Here are the principles I'll try my best to adhere:
 
 ## 1- Simple & Elegant 
 
@@ -82,12 +82,33 @@ It is important to make the program as optimized as possible, especially on mobi
 - Use low level programming languages like ARM Assembly to squzee every single clock cycle.
 - Pay attention to overlooked details such as Multithreading vs Multiprocessing in Python.
 - Test the program under various enviroments and conditions to optimize for the broadest use cases
+<br>
+
+
+
+
+</td>
+</tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://i.imgur.com/C1bdfOl.png" alt="Image description" style="width: 300px;"/>
+    </td>
+    <td>
+     My Android app's size was initially 70 MB, I was able to optimize it down to 5.88 MB
+    </td>
+  </tr>
+</table>
+
 
 
 ## 5- Transparent
 
 All of my software is fully transparent about what they do, I won't ever engage in shady practices.<br>
-My Android app Easy Stock Data doesn't require any permissions, never works in background and never sends any data to me.
+My Android app Easy Stock Data doesn't require any permissions, never works in background and never sends any data to me. <br>
 Currently all of my software is my free, If I release a paid content in the future everything about it will be clearly communicated.
 
 
