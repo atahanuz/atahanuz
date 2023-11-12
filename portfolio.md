@@ -32,7 +32,10 @@ Python library to find your League of Legends ranked statistics across all of yo
 [GitHub](https://github.com/atahanuz/lol-stats)
 
 ## Java Maven Libraries
-### Incoming!
+### sorting-benchmark-java
+An utility for benchmarking sorting algorithms in Java. You can use it to easily test the speed of your sorting algorithms as well as Java's built-in sorting methods.
+[Maven](https://github.com/atahanuz/sorting-benchmark/packages/1985682)
+[GitHub](https://github.com/atahanuz/sorting-benchmark-java)
 
 ## Hobby Projects
 
