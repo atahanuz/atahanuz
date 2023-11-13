@@ -35,6 +35,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
 - Experince with Decentralized Finance applications on Blockchain networks ( Ethereum, BSC, Solana, Polygon..)
 - Building applications to view information and automate trading on financial markets
+- Publishing libraries on PIP (Python) and Maven (Java)
 - Customer Service, I provided customer service to my clients in my small e-commerce business
 - Writing documentation in English and Turkish, I consider myself a skilled writer.
 
