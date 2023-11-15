@@ -5,9 +5,9 @@ When developing software, I believe it's crucial to maintain a solid design phil
 ## 1- Simple & Elegant 
 
 - I think many software and applications are unnecessarily complex. I'm designing my software to be as straightforward and lightweight as possible.
-- Firt of all, the program should be encapsulated to a well defined entity "Google Play Application, PIP package, Docker container...) Oftentimes complexity starts here due to vague definition of the program
-- The program should be installable with a single click or command when possible.
-- Usage of the program should be easy and clear. Customization should be optional without causing overhead to the general userbase.
+- First, the program should be a well defined entity "Google Play Application, PIP package, Docker container...) Oftentimes complexity starts here due to vague definition of the program
+- The program should be installable & runnable with a single click or command when possible.
+- Usage of he program should be simple and intuitive, with optional customization that doesn't burden the average user.
 
 ### Examples
 
@@ -69,7 +69,7 @@ Otherwise it is a junk. And like Steve Jobs said, I don't ship junk.
 
 ## 3- Good Documentation
 
-I always ensure my software has crystal clear documentation on how to install and use it. In my Python and Java libraries, I pay attention to my module display documentation when hovered over by mouse on most IDEs
+I always ensure my software has crystal clear documentation on how to install and use it. In my Python and Java libraries, I ensure that the documentation is displayed when hovered over with the mouse in most IDEs.
 
 <img src="https://i.imgur.com/YjS798C.png" alt="Image description" style="width: 700px;"/>
 
@@ -79,7 +79,7 @@ It is important to make the program as optimized as possible, especially on mobi
 
 - Avoid unnecessary imports, packages or low-effort abstraction tools.
 - Use efficent algorithms and data structures. Theoretical mathematics and computer science concepts are very vital here.
-- Use low level programming languages like ARM Assembly to squzee every single clock cycle.
+- Use low level programming languages like ARM Assembly to squeeze  every single clock cycle.
 - Pay attention to overlooked details such as Multithreading vs Multiprocessing in Python.
 - Test the program under various enviroments and conditions to optimize for the broadest use cases
 <br>
