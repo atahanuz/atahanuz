@@ -1,6 +1,8 @@
 # MY PORTFOLIO
 
-Last updated: 2023-11-13
+Last updated: 2023-11-15
+##### [--> My Design Philosophy <--](design_philosophy.md)
+Welcome to my software portfolio. I strive to have a curated portfolio and only list programs/libraries that people can use, not school assignments or random code I wrote.
 
 ## Mobile Apps:
 ### Easy Stock Data
@@ -19,6 +21,17 @@ Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
         <img src="https://i.imgur.com/dqCqSDX.png" width="20%" height="20%">
     </div>
 <br>
+
+## Desktop Applications
+### File2Android
+Send files of any size to your Android device from computer. Works on all operating systems. <br>
+| | |
+|---|---|
+| [GitHub](https://github.com/atahanuz/file2android)<br>[Download the JAR you can run right away](https://github.com/atahanuz/file2android/raw/main/File2Android.jar) | <img src="https://i.imgur.com/1HrvLib.png" width="250" height="250" alt="Alt"> |
+
+
+
+
 
 ## Python PIP Libraries
 ### yt2text
