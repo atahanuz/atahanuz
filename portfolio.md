@@ -2,7 +2,7 @@
 
 Last updated: 2023-11-15
 ##### [--> My Design Philosophy <--](design_philosophy.md)
-Welcome to my software portfolio. I strive to have a curated portfolio and only list programs/libraries that people can use, not school assignments or random code I wrote.
+Welcome to my software portfolio. I strive to have a curated portfolio and only list my best software meeting the highest quality standarts. You can check my [repository](https://github.com/atahanuz?tab=repositories) to see all of my projects.
 
 ## Mobile Apps:
 ### Easy Stock Data
@@ -21,6 +21,14 @@ Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
         <img src="https://i.imgur.com/dqCqSDX.png" width="20%" height="20%">
     </div>
 <br>
+
+## Web Applications:
+### Postgres Practice
+Hone your PostgreSQL skills by running queries on a sample database, powered by Google Cloud. <br>
+[Link](https://trainsql-usaflt4v6a-ue.a.run.app) <br>
+[GitHub](https://github.com/atahanuz/postgres-practice)
+
+<img src="https://i.imgur.com/tW0eZs6.png" width="364" height="300" alt="Alt"> 
 
 ## Desktop Applications
 ### File2Android
