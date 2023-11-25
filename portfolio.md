@@ -2,7 +2,7 @@
 
 Last updated: 2023-11-15
 ##### [--> My Design Philosophy <--](design_philosophy.md)
-Welcome to my software portfolio. I strive to have a curated portfolio and only list my best software meeting the highest quality standarts. You can check my [repository](https://github.com/atahanuz?tab=repositories) to see all of my projects.
+Welcome to my software portfolio. I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repository](https://github.com/atahanuz?tab=repositories) to see all of my projects.
 
 ## Mobile Apps:
 ### Easy Stock Data
