@@ -33,7 +33,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 ## Skills
 - C, Java, Python
 - x86 and ARM Assembly
-- Android development
+- Android development and publishing on Google Play
 - Deploying applications on Google Cloud
 - Webscraping with Selenium and machine learning with PyTorch
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
