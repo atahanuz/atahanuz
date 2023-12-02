@@ -5,7 +5,7 @@ When developing software, I believe it's crucial to maintain a solid design phil
 ## 1- Simple & Elegant 
 
 - I think many software and applications are unnecessarily complex. I'm designing my software to be as straightforward and lightweight as possible.
-- First, the program should be a well defined entity "Google Play Application, PIP package, Docker container...) Oftentimes complexity starts here due to vague definition of the program
+- First, the program should be a well defined entity such as "Android Application, PIP package, Docker container...) Oftentimes complexity starts here due to vague definition of the program
 - The program should be installable & runnable with a single click or command when possible.
 - Usage of he program should be simple and intuitive, with optional customization that doesn't burden the average user.
 
@@ -107,7 +107,7 @@ It is important to make the program as optimized as possible, especially on mobi
 
 ## 5- Transparent
 
-All of my software is fully transparent about what they do, I won't ever engage in shady practices.<br>
+All of my software is fully transparent about what they do, I won't ever engage in shady practices.<br><br>
 My Android app Easy Stock Data doesn't require any permissions, never works in background and never sends any data to me. <br>
 Currently all of my software is my free, If I release a paid content in the future everything about it will be clearly communicated.
 
