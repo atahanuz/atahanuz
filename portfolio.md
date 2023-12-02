@@ -25,7 +25,7 @@ Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
 ## Web Applications:
 ### Postgres Practice
 Hone your PostgreSQL skills by running queries on a sample database, powered by Google Cloud. <br>
-[Link](https://trainsql-usaflt4v6a-ue.a.run.app) <br>
+Link: [https://trainsql-usaflt4v6a-ue.a.run.app](https://trainsql-usaflt4v6a-ue.a.run.app) <br>
 [GitHub](https://github.com/atahanuz/postgres-practice)
 
 <img src="https://i.imgur.com/tW0eZs6.png" width="364" height="300" alt="Alt"> 
