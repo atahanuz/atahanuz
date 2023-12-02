@@ -22,7 +22,7 @@ Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
     </div>
 <br>
 
-## Web Applications:
+## Web Applications
 ### Postgres Practice
 Hone your PostgreSQL skills by running queries on a sample database, powered by Google Cloud. <br>
 Link: [https://trainsql-usaflt4v6a-ue.a.run.app](https://trainsql-usaflt4v6a-ue.a.run.app) <br>
