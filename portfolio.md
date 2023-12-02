@@ -9,7 +9,7 @@ Welcome to my software portfolio. Here, I strive to have a curated portfolio and
 **An Android app for easily viewing extensive data on US and international stocks**
 
 [Google Play](https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data) <br>
-App Store: Incoming!
+App Store: Upcoming!
 
 Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
 <br><br>
@@ -44,16 +44,26 @@ Send files of any size to your Android device from computer. Works on all operat
 ## Python PIP Libraries
 ### yt2text
 Python library for extracting text from a YouTube video in a single command, using OpenAi's Whisper speech recognition model.<br>
+```
+pip install yt2text
+```
 [PIP](https://pypi.org/project/yt2text/) <br>
 [GitHub](https://github.com/atahanuz/yt2text)
-
+<br><br>**-----------------------------------------------------------------------------------------------------------------**<br>
 ### lol-stats
 Python library to find your League of Legends ranked statistics across all of your accounts. Uses Selenium for web scrapping. <br>
+```
+pip install lol-stats
+```
 [PIP](https://pypi.org/project/lol-stats/) <br>
 [GitHub](https://github.com/atahanuz/lol-stats)
+<br><br>**-----------------------------------------------------------------------------------------------------------------**<br>
 
 ### tefas
-Python library for retrieving daily price data of 5 seconds from TEFAS, Turkey's exchange traded funds (ETF) platform.
+Python library for retrieving daily price data of 5 seconds from TEFAS, Turkey's exchange traded funds (ETF) platform.<br>
+```
+pip install tefas
+```
 [PIP](https://pypi.org/project/tefas/) <br>
 [GitHub](https://github.com/atahanuz/tefas)
 
