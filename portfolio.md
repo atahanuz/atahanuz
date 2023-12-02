@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-Last updated: 2023-11-26
+Last updated: 2023-12-02
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repository](https://github.com/atahanuz?tab=repositories) to see all of my projects.
 
@@ -51,6 +51,11 @@ Python library for extracting text from a YouTube video in a single command, usi
 Python library to find your League of Legends ranked statistics across all of your accounts. Uses Selenium for web scrapping. <br>
 [PIP](https://pypi.org/project/lol-stats/) <br>
 [GitHub](https://github.com/atahanuz/lol-stats)
+
+### tefas
+Python library for retrieving daily price data of 5 seconds from TEFAS, Turkey's exchange traded funds (ETF) platform.
+[PIP](https://pypi.org/project/tefas/) <br>
+[GitHub](https://github.com/atahanuz/tefas)
 
 ## Java Maven Libraries
 ### sorting-benchmark-java
