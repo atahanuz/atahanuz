@@ -2,7 +2,7 @@
 
 Last updated: 2023-12-02
 ##### [--> My Design Philosophy <--](design_philosophy.md)
-Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repository](https://github.com/atahanuz?tab=repositories) to see all of my projects.
+Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.
 
 ## Mobile Apps:
 ### Easy Stock Data
@@ -60,7 +60,7 @@ pip install lol-stats
 <br><br>**-----------------------------------------------------------------------------------------------------------------**<br>
 
 ### tefas
-Python library for retrieving daily price data of 5 seconds from TEFAS, Turkey's exchange traded funds (ETF) platform.<br>
+Python library for retrieving daily price data of 5 years from TEFAS, Turkey's exchange traded funds (ETF) platform.<br>
 ```
 pip install tefas
 ```
