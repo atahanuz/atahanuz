@@ -28,6 +28,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Data Mining & Machine learning
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
+- Poetry
 - Classical Music
 
 ## Skills
