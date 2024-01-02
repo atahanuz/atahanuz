@@ -1,8 +1,16 @@
 # MY PORTFOLIO
 
-Last updated: 2023-12-02
+Last updated: 2024-01-03
 ##### [--> My Design Philosophy <--](design_philosophy.md)
-Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.
+Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
+I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed
+
+## - Ongoing Research - ##
+https://github.com/atahanuz/ytu-ce-cosmos<br>
+COSMOS, the AI Research Group of  the YTU Computer Engineering Department, directed by [Prof. Dr. Mehmet Fatih Amasyali](https://avesis.yildiz.edu.tr/amasyali)<br>
+*My role: Team member* <br><br>
+ <img src="https://i.imgur.com/vDaiuWU.png" width="250" height="250">
+
 
 ## Mobile Apps:
 ### Easy Stock Data
