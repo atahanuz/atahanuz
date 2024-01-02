@@ -50,4 +50,22 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 You can mail me at atahanuz23@gmail.com at anytime for anything. I usually respond on the same day. <br>
 If it is about one of my repos, it'd be better if you raise an Issue in the repo so everyone can see and contribute to the discussion. <br> Offical university mail: atahan.uz@std.yildiz.edu.tr
 
+<a href="https://www.linkedin.com/in/atahan-uz-7a7b21292/">
+    <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="100" height="100" alt="Alt text">
+</a>
+<a href="https://github.com/atahanuz/atahanuz/">
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="100" height="100" alt="Alt text">
+</a>
+<a href="https://medium.com/@atahanuz">
+    <img src="https://coolhunting.com/wp-content/uploads/2021/08/medium-logo.png" width="100" height="100" alt="Alt text">
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Atahan+Uz">
+    <img src="https://i.imgur.com/ZVWoAuJ.png" width="100" height="100" alt="Alt text">
+</a>
+<a href="https://www.instagram.com/atahan.uz/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="100" height="100" alt="Alt text">
+</a>
+
+
+
 **_"The light is finite, but the darkness is not"_**
