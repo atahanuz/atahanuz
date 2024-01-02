@@ -7,7 +7,7 @@ When developing software, I believe it's crucial to maintain a solid design phil
 - I think many software and applications are unnecessarily complex. I'm designing my software to be as straightforward and lightweight as possible.
 - First, the program should be a well defined entity such as "Android Application, PIP package, Docker container...) Oftentimes complexity starts here due to vague definition of the program
 - The program should be installable & runnable with a single click or command when possible.
-- Usage of he program should be simple and intuitive, with optional customization that doesn't burden the average user.
+- Usage of the program should be simple and intuitive, with optional customization that doesn't burden the average user.
 
 ### Examples
 
