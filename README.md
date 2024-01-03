@@ -28,14 +28,14 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Data Mining & Machine learning
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
-- Poetry
+- Poetry, AI (and human😀) generated art
 - Classical Music
 
 ## Skills
 - C, Java, Python
 - x86 and ARM Assembly
 - Android development and publishing on Google Play
-- Deploying applications on Google Cloud
+- Deploying applications and databases on Google Cloud
 - Webscraping with Selenium and machine learning with PyTorch
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
 - Experince with Decentralized Finance applications on Blockchain networks ( Ethereum, BSC, Solana, Polygon..)
