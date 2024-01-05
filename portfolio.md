@@ -6,8 +6,7 @@ Welcome to my software portfolio. Here, I strive to have a curated portfolio and
 I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed
 
 ## - Ongoing Research - ##
-https://github.com/atahanuz/ytu-ce-cosmos<br>
-COSMOS, the AI Research Group of  the YTU Computer Engineering Department, directed by [Prof. Dr. Mehmet Fatih Amasyali](https://avesis.yildiz.edu.tr/amasyali)<br>
+[COSMOS](https://github.com/atahanuz/ytu-ce-cosmos), the AI Research Group of  the YTU Computer Engineering Department, directed by [Prof. Dr. Mehmet Fatih Amasyali](https://avesis.yildiz.edu.tr/amasyali)<br>
 *My role: Team member* <br><br>
  <img src="https://i.imgur.com/vDaiuWU.png" width="250" height="250">
 
