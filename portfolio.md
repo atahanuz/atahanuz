@@ -5,10 +5,17 @@ Last updated: 2024-01-03
 Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed
 
-## - Ongoing Research - ##
-[COSMOS](https://github.com/atahanuz/ytu-ce-cosmos), the AI Research Group of  the YTU Computer Engineering Department, directed by [Prof. Dr. Mehmet Fatih Amasyali](https://avesis.yildiz.edu.tr/amasyali)<br>
-*My role: Team member* <br><br>
- <img src="https://i.imgur.com/vDaiuWU.png" width="250" height="250">
+### - Ongoing Research - 
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/atahanuz/ytu-ce-cosmos">COSMOS</a>, the AI Research Group of the YTU Computer Engineering Department I'm a part of, directed by <a href="https://avesis.yildiz.edu.tr/amasyali">Prof. Dr. Mehmet Fatih Amasyali</a><br>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/vDaiuWU.png" width="44%" height="19%">
+    </td>
+  </tr>
+</table>
 
 
 ## Mobile Apps:
