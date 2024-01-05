@@ -31,6 +31,11 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Poetry, AI (and human😀) generated art
 - Classical Music
 
+## Research Groups ##
+[COSMOS](https://github.com/atahanuz/ytu-ce-cosmos), the AI Research Group of  the YTU Computer Engineering Department I'm a part of, directed by [Prof. Dr. Mehmet Fatih Amasyali](https://avesis.yildiz.edu.tr/amasyali)<br>
+ <img src="https://i.imgur.com/vDaiuWU.png" width="250" height="250">
+
+
 ## Skills
 - C, Java, Python
 - x86 and ARM Assembly
