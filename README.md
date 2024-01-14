@@ -17,7 +17,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 # [--> My Portfolio <--](portfolio.md)
 ### [--> My Design Philosophy <--](design_philosophy.md)
 
-### [--> My Medium Blog <--](https://medium.com/@atahanuz)
+### [--> My Medium Blog: Finance, Music and Art <--](https://medium.com/@atahanuz)
 
 
 
