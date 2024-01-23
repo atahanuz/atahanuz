@@ -8,7 +8,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
       My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
     </td>
     <td>
-      <img src="https://i.imgur.com/grCxpnI.png" width="50%" >
+      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
       <a href="https://cosmos.yildiz.edu.tr">COSMOS</a>, the AI Research Group of the YTU Computer Engineering Department I'm a part of, directed by <a href="https://avesis.yildiz.edu.tr/amasyali">Prof. Dr. Mehmet Fatih Amasyali</a><br>
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="39%" height="17%">
+      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
     </td>
   </tr>
 </table>
