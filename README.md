@@ -17,7 +17,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 # 🔥[--> My Portfolio <--](portfolio.md)
 ### [--> My Design Philosophy <--](design_philosophy.md)
 
-### [--> My Medium Blog: Finance, Music and Art <--](https://medium.com/@atahanuz)
+### [--> My Medium Blog: Technology, Music and Life <--](https://medium.com/@atahanuz)
 
 
 
@@ -76,14 +76,5 @@ If it is about one of my repos, it'd be better if you raise an Issue in the repo
 <a href="https://www.instagram.com/atahan.uz/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="80" height="80" alt="Alt text"></a>‎ ‎ ‎ 
 <br>-----------------------<br>
-**Pieces of the month (Jan 2024)** <br>
-Butterfly Lovers' Violin Concerto, Chen Gang & He Zhanhao -> 
-<a href="https://youtu.be/C1yfPmblWgw?si=YaICnRvod8BGp_Im&t=47">
+**My first classical composition: Suite for String Orchestra, WoO 1, Atahan Uz** ->  <a href="https://youtu.be/C1yfPmblWgw?si=YaICnRvod8BGp_Im&t=47">
     <img src="https://i.imgur.com/CATYmPI.png" width="30" height="20" style="vertical-align: bottom;"></a>‎
-<br>
-
-String Quartet No.14 in C# Minor, Ludwig van Beethoven -> 
-<a href="https://youtu.be/ZMDlqG7_TSc?si=xrKv31vLmlgr_Bn2&t=5">
-    <img src="https://i.imgur.com/CATYmPI.png" width="30" height="20" style="vertical-align: bottom;"></a>‎
-
-
