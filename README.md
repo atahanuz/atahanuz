@@ -8,7 +8,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
       My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
     </td>
     <td>
-      <img src="https://i.imgur.com/ht0EV23.png" width="33%" height="16%">
+      <img src="https://i.imgur.com/QndqiYW.png" width="80%" height="40%">
     </td>
   </tr>
 </table>
