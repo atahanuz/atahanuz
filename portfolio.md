@@ -3,7 +3,7 @@
 Last updated: 2024-01-22
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
-I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed
+I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed.
 
 ### - Ongoing Research - 
 <table>
@@ -13,7 +13,7 @@ I'm the solo developer of the projects unless otherwise stated. In team projects
       My role: Founding team member
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="44%" height="19%">
+      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="19%">
     </td>
   </tr>
 </table>
@@ -23,10 +23,20 @@ I'm the solo developer of the projects unless otherwise stated. In team projects
 ### Easy Stock Data
 **An Android app for easily viewing extensive data on US and international stocks**
 
-[Google Play](https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data) <br>
-App Store: Upcoming!
 
-Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3
+<table>
+  <tr>
+    <td valign="middle">
+      My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
+    </td>
+    <td>
+      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
+    </td>
+  </tr>
+</table>
+
+Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3 <br>
+App Store: Upcoming!
 <br><br>
 
 
