@@ -23,9 +23,10 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 
 ## My interest areas:
 - Algorithmic Trading on Financial Markets
+- Natural Language Processing
 - Portfolio Optimization with AI
 - Payment Systems and E-commerce platforms
-- Data Mining, Web Scrapping and Machine learning
+- Data Mining6 Web Scrapping 
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
 - Poetry, AI (and human😀) generated art
@@ -35,7 +36,9 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 <table>
   <tr>
     <td valign="middle">
-      <a href="https://cosmos.yildiz.edu.tr">COSMOS</a>, the AI Research Group of the YTU Computer Engineering Department I'm a part of, directed by <a href="https://avesis.yildiz.edu.tr/amasyali">Prof. Dr. Mehmet Fatih Amasyali</a><br>
+      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/turkish-gpt2-large-750m-instruct-v0.1">"cosmosGPT-750m"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
+  <br><br>
+  <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
     </td>
     <td>
       <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
@@ -50,6 +53,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - C, Java, Python
 - x86 and ARM Assembly
 - Android development and publishing on Google Play
+- Natural Language Processing, deploying GPT models on Hugging Face
 - Deploying applications and databases on Google Cloud
 - Webscraping with Selenium and machine learning with PyTorch
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
