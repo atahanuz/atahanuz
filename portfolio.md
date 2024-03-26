@@ -1,22 +1,24 @@
 # MY PORTFOLIO
 
-Last updated: 2024-01-22
+Last updated: 2024-03-26
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed.
 
-### - Ongoing Research - 
+##  Hugging Face Models 
 <table>
   <tr>
     <td valign="middle">
-      <a href="https://cosmos.yildiz.edu.tr">COSMOS</a>, the AI Research Group of the YTU Computer Engineering Department led by<a href="https://avesis.yildiz.edu.tr/amasyali"> Prof. Dr. Mehmet Fatih Amasyali</a><br>
-      My role: Founding team member
+      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/turkish-gpt2-large-750m-instruct-v0.1">"cosmosGPT-750m"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
+  <br><br>
+  <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="19%">
+      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
     </td>
   </tr>
 </table>
+
 
 
 ## Mobile Apps:
