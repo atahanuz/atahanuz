@@ -76,9 +76,7 @@ If it is about one of my repos, it'd be better if you raise an Issue in the repo
 <a href="https://medium.com/@atahanuz">
     <img src="https://coolhunting.com/wp-content/uploads/2021/08/medium-logo.png" width="80" height="80" alt="Alt text"></a>‎      
 <a href="https://play.google.com/store/apps/developer?id=Atahan+Uz">
-    <img src="https://i.imgur.com/ZVWoAuJ.png" width="80" height="80" alt="Alt text"></a>‎       
-<a href="https://www.instagram.com/atahan.uz/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="80" height="80" alt="Alt text"></a>‎ ‎ ‎ 
+    <img src="https://i.imgur.com/ZVWoAuJ.png" width="80" height="80" alt="Alt text"></a>‎        ‎ ‎ 
 <br>-----------------------<br>
 **My first classical music composition: Suite for String Orchestra "The Sorrow Heart", Op. 1, Atahan Uz** ->  <a href="https://www.youtube.com/watch?v=cl4b89XytfU">
     <img src="https://i.imgur.com/CATYmPI.png" width="30" height="20" style="vertical-align: bottom;"></a>‎
