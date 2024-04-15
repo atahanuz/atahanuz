@@ -26,7 +26,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Natural Language Processing
 - Portfolio Optimization with AI
 - Payment Systems and E-commerce platforms
-- Data Mining6 Web Scrapping 
+- Data Mining& Web Scrapping 
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
 - Poetry, AI (and human😀) generated art
