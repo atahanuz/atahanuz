@@ -12,12 +12,18 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
     </td>
   </tr>
 </table>
+🔥 My first research papers got published!
+  <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">My Google Scholar</a> 
+  <br>
+<img src="https://i.imgur.com/A88Wyrf.png" width="55%" >
+
+
 
 
 # 🔥[--> My Portfolio <--](portfolio.md)
 ### [--> My Design Philosophy <--](design_philosophy.md)
 
-### [--> My Medium Blog: Technology, Music and Life <--](https://medium.com/@atahanuz)
+### [--> My Medium Blog: Technology, Music and Life <--](https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ)
 
 
 
@@ -76,7 +82,10 @@ If it is about one of my repos, it'd be better if you raise an Issue in the repo
 <a href="https://medium.com/@atahanuz">
     <img src="https://coolhunting.com/wp-content/uploads/2021/08/medium-logo.png" width="80" height="80" alt="Alt text"></a>‎      
 <a href="https://play.google.com/store/apps/developer?id=Atahan+Uz">
-    <img src="https://i.imgur.com/ZVWoAuJ.png" width="80" height="80" alt="Alt text"></a>‎        ‎ ‎ 
+    <img src="https://i.imgur.com/ZVWoAuJ.png" width="80" height="80" alt="Alt text"></a> ‎ ‎ 
+<a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">
+  <img src="https://cdn-1.webcatalog.io/catalog/google-scholar/google-scholar-icon-filled-256.png?v=1675596718716" width="80" height="80" alt="Alt text"></a>
+    ‎        ‎ ‎ 
 <br>-----------------------<br>
 **My first classical music composition: Suite for String Orchestra "The Sorrow Heart", Op. 1, Atahan Uz** ->  <a href="https://www.youtube.com/watch?v=cl4b89XytfU">
     <img src="https://i.imgur.com/CATYmPI.png" width="30" height="20" style="vertical-align: bottom;"></a>‎
