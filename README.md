@@ -12,7 +12,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
     </td>
   </tr>
 </table>
-🔥 My first research papers got published!
+🥳 My first research papers got published!
   <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">My Google Scholar</a> 
   <br>
 <img src="https://i.imgur.com/A88Wyrf.png" width="55%" >
