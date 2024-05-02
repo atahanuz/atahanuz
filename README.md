@@ -56,9 +56,8 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 
 
 ## Skills
-- C, Java, Python
-- x86 and ARM Assembly
-- Android development and publishing on Google Play
+- C, Java, Python, x86 Assembly and PostgreSQL
+- Android development and publishing apps on Google Play
 - Natural Language Processing, deploying GPT models on Hugging Face
 - Deploying applications and databases on Google Cloud
 - Webscraping with Selenium and machine learning with PyTorch
