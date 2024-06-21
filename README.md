@@ -12,7 +12,7 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
   <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
+      <img src="https://i.imgur.com/vDaiuWU.png" width="47%" height="16%">
     </td>
   </tr>
 </table>
