@@ -2,21 +2,20 @@
 
 Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at Yıldız Technical University.
 
+
+
 <table>
   <tr>
     <td valign="middle">
-      My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
+      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/turkish-gpt2-large-750m-instruct-v0.1">"cosmosGPT-750m"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
+  <br><br>
+  <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
     </td>
     <td>
-      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
+      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
     </td>
   </tr>
 </table>
-🥳 My first research papers got published!
-  <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">My Google Scholar</a> 
-  <br>
-<img src="https://i.imgur.com/A88Wyrf.png" width="55%" >
-
 
 
 
@@ -38,19 +37,20 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 - Poetry, AI (and human😀) generated art
 - Classical Music
 
-
 <table>
   <tr>
     <td valign="middle">
-      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/turkish-gpt2-large-750m-instruct-v0.1">"cosmosGPT-750m"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
-  <br><br>
-  <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
+      My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
+      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
     </td>
   </tr>
 </table>
+🥳 My first research papers got published!
+  <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">My Google Scholar</a> 
+  <br>
+<img src="https://i.imgur.com/A88Wyrf.png" width="55%" >
 
 
 
