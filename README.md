@@ -27,8 +27,8 @@ Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at 
 
 
 ## My interest areas:
-- Algorithmic Trading on Financial Markets
 - Natural Language Processing
+- Algorithmic Trading on Financial Markets
 - Portfolio Optimization with AI
 - Payment Systems and E-commerce platforms
 - Data Mining& Web Scrapping 
