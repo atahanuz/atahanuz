@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-Last updated: 2024-03-26
+Last updated: 2024-07-01
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 I'm the solo developer of the projects unless otherwise stated. In team projects my role will be clearly displayed.
@@ -102,6 +102,9 @@ An utility for benchmarking sorting algorithms in Java. You can use it to easily
 [GitHub](https://github.com/atahanuz/sorting-benchmark-java)
 
 ## Hobby Projects
-Incoming !
+### spotify-translator
+Display translated lyrics of the currently playing Spotify track in real time, extremely easy to use! <br>
+<br>
+[GitHub](https://github.com/atahanuz/spotify-translator)
 
 
