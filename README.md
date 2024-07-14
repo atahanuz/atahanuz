@@ -1,6 +1,6 @@
 ## Hello
 
-Hi, I am Atahan Uz. I am currently a third-year Computer Engineering student at Yıldız Technical University.
+Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Technical University.
 
 
 
