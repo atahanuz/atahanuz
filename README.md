@@ -57,8 +57,15 @@ Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Techn
 
 ## Skills
 - C, Java, Python, x86 Assembly and PostgreSQL
+- Natural Language Processing:
+  - Training and fine tuning GPT models
+  - Evaluating model performances using various metrics and techniques
+  - Developing solutions for model inference with low RAM usage and high speed, using quantization and batch processing with CUDA
+ 
+  - Deploying GPT models to Hugging Face
+  
 - Android development and publishing apps on Google Play
-- Natural Language Processing, deploying GPT models on Hugging Face
+
 - Deploying applications and databases on Google Cloud
 - Webscraping with Selenium and machine learning with PyTorch
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
