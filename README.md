@@ -20,7 +20,6 @@ Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Techn
 
 
 # 🔥[--> My Portfolio <--](portfolio.md)
-### [--> My Design Philosophy <--](design_philosophy.md)
 
 ### [--> My Medium Blog: Technology, Music and Life <--](https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ)
 
