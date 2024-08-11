@@ -7,12 +7,12 @@ Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Techn
 <table>
   <tr>
     <td valign="middle">
-      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/turkish-gpt2-large-750m-instruct-v0.1">"cosmosGPT-750m"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
+      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/Turkish-Llama-8b-Instruct-v0.1">"CosmosLlama-8b-instruct"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
   <br><br>
   <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="47%" height="16%">
+      <img src="https://i.imgur.com/vDaiuWU.png" width="47%" height="20%">
     </td>
   </tr>
 </table>
