@@ -59,16 +59,14 @@ Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Techn
   - Training and fine tuning GPT models
   - Evaluating model performances using various metrics and techniques
   - Developing solutions for model inference with low RAM usage and high speed, using quantization and batch processing with CUDA
- 
   - Deploying GPT models to Hugging Face
   
 - Android development and publishing apps on Google Play
-
 - Deploying applications and databases on Google Cloud
-- Webscraping with Selenium and machine learning with PyTorch
+- Webscraping with Selenium
 - Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
 - Experince with Decentralized Finance applications on Blockchain networks ( Ethereum, BSC, Solana, Polygon..)
-- Building applications to view information and automate trading on financial markets
+- Building applications to display detailed information and automate trading on financial markets
 - Publishing libraries on PIP (Python) and Maven (Java)
 - Customer Service, I provided customer service to my clients in my small e-commerce business
 - Writing documentation in English and Turkish, I consider myself a skilled writer.
