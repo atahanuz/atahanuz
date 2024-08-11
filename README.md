@@ -73,7 +73,7 @@ Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Techn
 
 
 ## Contact
-You can mail me at atahanuz23@gmail.com at anytime for anything. I usually respond on the same day. <br>
+You can mail me at atahanuz23@gmail.com at anytime for anything, I'll respond promptly. <br>
 If it is about one of my repos, it'd be better if you raise an Issue in the repo so everyone can see and contribute to the discussion. <br> Offical university mail: atahan.uz@std.yildiz.edu.tr
 ‎ ‎ ‎<br> **Accounts:** <br><br>
 <a href="https://www.linkedin.com/in/atahan-uz-7a7b21292/">
