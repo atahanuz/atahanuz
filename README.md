@@ -26,10 +26,10 @@ Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Techn
 
 
 ## My interest areas:
-- Natural Language Processing
-- Algorithmic Trading on Financial Markets
+- Natural Language Processing- with a focus on Turkish LLMs
+- Algorithmic Trading on Financial Markets, portfolio optimization with AI
 - Payment Systems and E-commerce platforms
-- Data Mining& Web Scrapping 
+- Data Mining& Web Scrapping
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
 - Poetry, AI (and human😀) generated art
