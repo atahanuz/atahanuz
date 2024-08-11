@@ -1,6 +1,6 @@
 ## Hello
 
-Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Technical University.
+Hi, I am Atahan Uz. I am a senior Computer Engineering student at Yıldız Technical University and an intern NLP researcher in TÜBİTAK BİLGEM.
 
 
 
