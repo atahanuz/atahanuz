@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-Last updated: 2024-17-01
+Last updated: 2024-18-08
 
 ### UPDATE (Aug 2024) Since I'm a NLP Researcher in TÜBİTAK now, I am dedicating myself to LLMs and don't have much time for regular software projects. Still, if you have any questions or suggestions about my repos you can always reach me.
 
