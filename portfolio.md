@@ -1,6 +1,9 @@
 # MY PORTFOLIO
 
-Last updated: 2024-07-01
+Last updated: 2024-17-01
+
+## UPDATE (Aug 2024) Since I'm a NLP Researcher in TÜBİTAK now, I am dedicating myself to LLMs and don't have much time for regular software projects. Still, if you have any questions or suggestions about my repos you can always reach me.
+
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 
