@@ -6,7 +6,7 @@ Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical
 <table>
   <tr>
     <td valign="middle">
-      Check our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/Turkish-Llama-8b-Instruct-v0.1">"CosmosLlama-8b-instruct"</a> , released  by the COSMOS AI Research Group of of our department.
+      Check our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/Turkish-Llama-8b-Instruct-v0.1">"CosmosLlama-8b-instruct"</a> , released  by the COSMOS AI Research Group of our department.
   <br><br>
   <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
     </td>
