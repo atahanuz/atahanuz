@@ -26,9 +26,9 @@ Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical
 
 ## My interest areas:
 - Natural Language Processing- with a focus on Turkish LLMs
-- Algorithmic Trading on Financial Markets, portfolio optimization with AI
+- Modelling financial markets with AI, algorithmic trading and portfolio management.
 - Payment Systems and E-commerce platforms
-- Data Mining& Web Scrapping
+- All things data (web scrapping, classification, visualization, forecasting)
 - Crytpcocurrencies & Blockchain
 - Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
 - Poetry, AI (and human😀) generated art
