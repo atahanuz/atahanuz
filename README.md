@@ -21,7 +21,7 @@ Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical
 # 🔥[--> My Portfolio <--](portfolio.md)
 
 ### [--> My Medium Blog: Technology, Music and Life <--](https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ)
-
+####  [🎶 Spotify Translator ](https://github.com/atahanuz/spotify-translator/)
 
 
 ## My interest areas:
