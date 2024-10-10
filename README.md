@@ -1,6 +1,6 @@
 ## Hello
 
-Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical University and an intern NLP researcher @TÜBİTAK BİLGEM.
+Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical University and a NLP researcher at TÜBİTAK BİLGEM Artificial Intelligence Institue.
 
 
 <table>
