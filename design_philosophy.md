@@ -1,3 +1,5 @@
+# EDIT: October 2024: This is massively outdated :D
+
 # My Design Philosophy
 
 When developing software, I believe it's crucial to maintain a solid design philosophy. Here are the principles I'll try my best to adhere:
