@@ -6,7 +6,7 @@ Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical
 <table>
   <tr>
     <td valign="middle">
-      Discover the <b>COSMOS AI Research Group</b> of YTU Computer Engineering where we're releasing cutting edge Turkish GPT models and publishing research papers ! 
+      Discover the <b>COSMOS AI Research Group</b> of YTU Computer Engineering where we're releasing cutting edge Turkish LLMs and publishing research papers ! 
   <br><br>
   <a href="https://www.linkedin.com/company/ytu-cosmos/">https://www.linkedin.com/company/ytu-cosmos/</a> 
     </td>
