@@ -52,7 +52,6 @@ App Store: Upcoming!
 ## Web Applications
 ### Postgres Practice
 Hone your PostgreSQL skills by running queries on a sample database, powered by Google Cloud. <br>
-Link: [https://trainsql-usaflt4v6a-ue.a.run.app](https://trainsql-usaflt4v6a-ue.a.run.app) <br>
 [GitHub](https://github.com/atahanuz/postgres-practice)
 
 <img src="https://i.imgur.com/tW0eZs6.png" width="364" height="300" alt="Alt"> 
@@ -104,7 +103,9 @@ An utility for benchmarking sorting algorithms in Java. You can use it to easily
 ## Hobby Projects
 ### spotify-translator
 Display translated lyrics of the currently playing Spotify track in real time, extremely easy to use! <br>
-<br>
 [GitHub](https://github.com/atahanuz/spotify-translator)
+<br><br>
+<img src="https://i.imgur.com/IY6v5y8.png" alt="The app with translation" style="width: 45%;" />
+
 
 
