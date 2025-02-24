@@ -57,14 +57,13 @@ App Store: Upcoming!
     </div>
 <br>
 
-
 ### COSMOS
 **The official mobile app of COSMOS AI Research Group**
 
 [Google Play (currently in closed beta, will be public soon!](https://play.google.com/store/apps/details?id=com.cosmos.cosmos)
 
 
-<br><br>
+<br>
 
 
 <div class="image-container">
