@@ -3,21 +3,29 @@
 Last updated: 2024-18-08
 
 ##### [--> My Design Philosophy <--](design_philosophy.md)
-Welcome to my software portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
+Welcome to my software and academic portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 
-##  Hugging Face Models 
+##  Public Large Language Models
+
 <table>
   <tr>
     <td valign="middle">
-      Check our our latest GPT model <a href="https://huggingface.co/ytu-ce-cosmos/turkish-gpt2-large-750m-instruct-v0.1">"cosmosGPT-750m"</a> , released  by the COSMOS AI Research Group of YTU Computer Engineering Department that I'm a part of.
+      Discover the <b>COSMOS AI Research Group</b> of YTU Computer Engineering where we're releasing cutting edge Turkish LLMs and publishing research papers ! 
   <br><br>
-  <a href="https://cosmos.yildiz.edu.tr">https://cosmos.yildiz.edu.tr</a> 
+  <a href="https://www.linkedin.com/company/ytu-cosmos/">https://www.linkedin.com/company/ytu-cosmos/</a>  <br><br>
+  <a href="https://huggingface.co/ytu-ce-cosmos/">https://huggingface.co/ytu-ce-cosmos/</a> 
     </td>
     <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="37%" height="16%">
+      <img src="https://i.imgur.com/vDaiuWU.png" width="47%" height="20%">
     </td>
   </tr>
 </table>
+
+##  Research Papers
+
+  <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">🥳 My Google Scholar!</a> 
+  <br>
+<img src="https://i.imgur.com/bjeKfoF.png" width="55%" >
 
 
 
@@ -48,6 +56,24 @@ App Store: Upcoming!
         <img src="https://i.imgur.com/dqCqSDX.png" width="20%" height="20%">
     </div>
 <br>
+
+
+### COSMOS
+**The official mobile app of COSMOS AI Research Group**
+
+[Google Play (currently in closed beta, will be public soon!](https://play.google.com/store/apps/details?id=com.cosmos.cosmos)
+
+
+<br><br>
+
+
+<div class="image-container">
+        <img src="https://i.imgur.com/3LQqsru.png" width="20%" height="20%">
+        <img src="https://i.imgur.com/ip5wBQf.png" width="20%" height="20%">
+        <img src="https://i.imgur.com/M0a29S9.png" width="20%" height="20%">
+    </div>
+<br>
+
 
 ## Web Applications
 ### Postgres Practice
