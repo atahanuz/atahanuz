@@ -44,7 +44,7 @@ Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical
     </td>
   </tr>
 </table>
-🥳 My first research papers got published! edit: and got my first citation!
+🥳 Check out my Google Scholar!
   <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">My Google Scholar</a> 
   <br>
 <img src="https://i.imgur.com/bjeKfoF.png" width="55%" >
