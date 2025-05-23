@@ -1,6 +1,6 @@
 ## Hello
 
-Hi I am Atahan, I am a senior Computer Engineering student at Yıldız Technical University and a NLP researcher at TÜBİTAK BİLGEM Artificial Intelligence Institue.
+Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology. I’m also a researcher at COSMOS, the NLP research group we founded at Yildiz Technical University
 
 
 <table>
