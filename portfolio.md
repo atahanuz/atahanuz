@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-Last updated: 2024-18-08
+Last updated: 2025-26-05
 
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software and academic portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
