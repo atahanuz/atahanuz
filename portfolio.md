@@ -131,6 +131,12 @@ Display translated lyrics of the currently playing Spotify track in real time, e
 [GitHub](https://github.com/atahanuz/spotify-translator)
 <br><br>
 <img src="https://i.imgur.com/IY6v5y8.png" alt="The app with translation" style="width: 45%;" />
+<br><br>
+### digit-recognition
+Easy-to-use Python digit recognition model you can personally test !
+[GitHub](https://github.com/atahanuz/digit-recognition)
+
+![Image Description](https://i.imgur.com/VxGU4oV.png)
 
 
 
