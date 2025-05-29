@@ -88,6 +88,3 @@ If it is about one of my repos, it'd be better if you raise an Issue in the repo
 <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">
   <img src="https://cdn-1.webcatalog.io/catalog/google-scholar/google-scholar-icon-filled-256.png?v=1675596718716" width="80" height="80" alt="Alt text"></a>
     ‎        ‎ ‎ 
-<br>-----------------------<br>
-**My latest classical music composition: Piano Concerto No.1, Op. 3, Atahan Uz** ->  <a href="https://www.youtube.com/watch?v=h6kWTA5vw0g">
-    <img src="https://i.imgur.com/CATYmPI.png" width="30" height="20" style="vertical-align: bottom;"></a>‎
