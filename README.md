@@ -3,19 +3,9 @@
 Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology. I’m also a researcher at COSMOS, the NLP research group we founded at Yildiz Technical University
 
 
-<table>
-  <tr>
-    <td valign="middle">
-      Discover the <b>COSMOS AI Research Group</b> of YTU Computer Engineering where we're releasing cutting edge Turkish LLMs and publishing research papers ! 
-  <br><br>
-  <a href="https://www.linkedin.com/company/ytu-cosmos/">https://www.linkedin.com/company/ytu-cosmos/</a> 
-    </td>
-    <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="47%" height="20%">
-    </td>
-  </tr>
-</table>
+![COSMOS](https://i.imgur.com/2qVJOYc.png)
 
+Check out the official mobile app of COSMOS AI Research Group. Co-developed by me and Eren Doğan.
 
 
 # 🔥[--> My Software Portfolio <--](portfolio.md)
