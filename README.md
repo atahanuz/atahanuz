@@ -1,6 +1,6 @@
 ## Hello
 
-Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology. I’m also a researcher at COSMOS, the NLP research group we founded at Yildiz Technical University
+Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering. I’m also a researcher at COSMOS, the NLP research group we founded at Yildiz Technical University
 
 
 ![COSMOS](https://i.imgur.com/2qVJOYc.png)
