@@ -2,8 +2,8 @@
 
 Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering. I’m also a researcher at COSMOS, the NLP research group we founded at Yildiz Technical University
 
-
-![COSMOS](https://i.imgur.com/2qVJOYc.png)
+<br>
+![COSMOS](https://i.imgur.com/qaAk4tc.png)
 
 Check out the official mobile app of COSMOS: <a href="https://play.google.com/store/apps/details?id=com.cosmos.cosmos">Google Play</a> 
 
@@ -15,14 +15,13 @@ Check out the official mobile app of COSMOS: <a href="https://play.google.com/st
 
 
 
-
 <table>
   <tr>
     <td valign="middle">
       My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
     </td>
     <td>
-      <img src="https://i.imgur.com/qaAk4tc.png" width="55%" >
+      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
     </td>
   </tr>
 </table>
