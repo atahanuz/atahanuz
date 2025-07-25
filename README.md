@@ -22,7 +22,7 @@ Check out the official mobile app of COSMOS: <a href="https://play.google.com/st
       My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
     </td>
     <td>
-      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
+      <img src="https://i.imgur.com/qaAk4tc.png" width="55%" >
     </td>
   </tr>
 </table>
