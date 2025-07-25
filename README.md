@@ -30,7 +30,14 @@ Check out the official mobile app of COSMOS: <a href="https://play.google.com/st
   <br>
 <img src="https://i.imgur.com/bjeKfoF.png" width="55%" >
 
-
+## My interest areas:
+- Natural Language Processing- with a focus on Turkish LLMs
+- Modelling financial markets with AI, algorithmic trading and portfolio management.
+- Payment Systems and E-commerce platforms
+- All things data (web scrapping, classification, visualization, forecasting)
+- Crytpcocurrencies & Blockchain
+- Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
+- Poetry, AI (and human😀) generated art
 
 
 
