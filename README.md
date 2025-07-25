@@ -14,15 +14,7 @@ Check out the official mobile app of COSMOS: <a href="https://play.google.com/st
 ####  [🎶 Spotify Translator ](https://github.com/atahanuz/spotify-translator/)
 
 
-## My interest areas:
-- Natural Language Processing- with a focus on Turkish LLMs
-- Modelling financial markets with AI, algorithmic trading and portfolio management.
-- Payment Systems and E-commerce platforms
-- All things data (web scrapping, classification, visualization, forecasting)
-- Crytpcocurrencies & Blockchain
-- Theorotical Mathematics:  *finding a new discovery in Math is my childhood dream.*
-- Poetry, AI (and human😀) generated art
-- Classical Music
+
 
 <table>
   <tr>
@@ -43,29 +35,10 @@ Check out the official mobile app of COSMOS: <a href="https://play.google.com/st
 
 
 
-## Skills
-- C, Java, Python, x86 Assembly and PostgreSQL
-- Natural Language Processing:
-  - Training and fine tuning GPT models
-  - Evaluating model performances using various metrics and techniques
-  - Developing solutions for model inference with low RAM usage and high speed, using quantization and batch processing with CUDA
-  - Deploying GPT models to Hugging Face
-  
-- Android development and publishing apps on Google Play
-- Deploying applications and databases on Google Cloud
-- Webscraping with Selenium
-- Experience with almost all payment services and trading on any exchange (international stocks, ETFs, crytocurrencies, derivatives...)
-- Experince with Decentralized Finance applications on Blockchain networks ( Ethereum, BSC, Solana, Polygon..)
-- Building applications to display detailed information and automate trading on financial markets
-- Publishing libraries on PIP (Python) and Maven (Java)
-- Customer Service, I provided customer service to my clients in my small e-commerce business
-- Writing documentation in English and Turkish, I consider myself a skilled writer.
-
-
 
 ## Contact
-You can mail me at atahanuz23@gmail.com at anytime for anything, I'll respond promptly. <br>
-If it is about one of my repos, it'd be better if you raise an Issue in the repo so everyone can see and contribute to the discussion. <br> Offical university mail: atahan.uz@std.yildiz.edu.tr
+You can mail me at atahanuz1@gmail.com at anytime for anything. <br>
+If it is about one of my repos, it'd be better if you raise an Issue in the repo so everyone can see and contribute to the discussion.
 ‎ ‎ ‎<br> **Accounts:** <br><br>
 <a href="https://www.linkedin.com/in/atahan-uz-7a7b21292/">
     <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="80" height="80" alt="Alt text"></a>‎        
