@@ -6,7 +6,7 @@ Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master'
 
 ![COSMOS](https://i.imgur.com/qaAk4tc.png)
 
-Check out the official mobile app of COSMOS: <a href="https://play.google.com/store/apps/details?id=com.cosmos.cosmos">Google Play</a> 
+Check out the official mobile app of COSMOS: <a href="https://onelink.to/qg8rda">Google Play& App Store</a> 
 
 
 # 🔥[--> My Software Portfolio <--](portfolio.md)
