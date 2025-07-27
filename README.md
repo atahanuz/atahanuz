@@ -52,7 +52,7 @@ If it is about one of my repos, it'd be better if you raise an Issue in the repo
 <a href="https://github.com/atahanuz/atahanuz/">
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="80" height="80" alt="Alt text"></a>‎      
 <a href="https://medium.com/@atahanuz">
-    <img src="https://coolhunting.com/wp-content/uploads/2021/08/medium-logo.png" width="80" height="80" alt="Alt text"></a>‎      
+    <img src="https://i.imgur.com/K0lqQ0G.png" width="80" height="80" alt="Alt text"></a>‎      
 <a href="https://play.google.com/store/apps/developer?id=Atahan+Uz">
     <img src="https://i.imgur.com/ZVWoAuJ.png" width="80" height="80" alt="Alt text"></a> ‎ ‎ 
 <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">
