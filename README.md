@@ -1,12 +1,13 @@
 ## Hello
 
-Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering. I’m also a researcher at COSMOS, the NLP research group we founded at Yildiz Technical University
+Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering.
 <br>
 
+# NEW: Created my personal website: https://atahanuz.com
 
 ![COSMOS](https://i.imgur.com/qaAk4tc.png)
 
-Check out the official mobile app of COSMOS: <a href="https://onelink.to/qg8rda">Google Play& App Store</a> 
+Check out the official mobile app of COSMOS: <a href="https://onelink.to/qg8rda">Google Pla y& App Store</a> 
 
 
 # 🔥[--> My Software Portfolio <--](portfolio.md)
