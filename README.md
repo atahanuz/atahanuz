@@ -3,7 +3,7 @@
 Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering.
 <br>
 
-# NEW: Created my personal website: https://atahanuz.com
+# My Personal Website: https://atahanuz.com
 
 ![COSMOS](https://i.imgur.com/qaAk4tc.png)
 
