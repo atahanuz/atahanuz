@@ -6,49 +6,20 @@ Last updated: 2025-26-05
 Welcome to my software and academic portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 
 ## Mobile Apps:
-### Easy Stock Data
-**An Android app for easily viewing extensive data on US and international stocks**
-
-
-<table>
-  <tr>
-    <td valign="middle">
-      My first Google Play app: Easy Stock Data https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data
-    </td>
-    <td>
-      <img src="https://i.imgur.com/grCxpnI.png" width="55%" >
-    </td>
-  </tr>
-</table>
-
-Documentation and FAQ: https://medium.com/@atahanuz/easy-stock-data-0d01fc7c59c3 <br>
-App Store: Upcoming!
-<br><br>
-
-
-<div class="image-container">
-        <img src="https://i.imgur.com/L10onvv.png" width="20%" height="20%">
-        <img src="https://i.imgur.com/ZWJvmXd.png" width="20%" height="20%">
-        <img src="https://i.imgur.com/dqCqSDX.png" width="20%" height="20%">
-    </div>
-<br>
 
 ### COSMOS
 **The official mobile app of COSMOS AI Research Group**
 
-[Google Play (currently in closed beta, will be public soon!](https://play.google.com/store/apps/details?id=com.cosmos.cosmos)
+[![Image Description](https://i.imgur.com/r5Wm5PC.png)](https://onelink.to/qg8rda)
 
 
-<br>
 
+### Easy Stock Data
+**A free Android app for easily viewing extensive data on international stocks**
 
-<div class="image-container">
-        <img src="https://i.imgur.com/3LQqsru.png" width="20%" height="20%">
-        <img src="https://i.imgur.com/ip5wBQf.png" width="20%" height="20%">
-        <img src="https://i.imgur.com/M0a29S9.png" width="20%" height="20%">
-    </div>
-<br>
+[![Easy Stock Data](https://i.imgur.com/rcSzz3g.png)](https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data)
 
+Documentation: https://medium.com/@atahanuz/released-easy-stock-data-8a4528b50965
 
 ## Web Applications
 ### Postgres Practice
