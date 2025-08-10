@@ -19,7 +19,7 @@ Welcome to my software and academic portfolio. Here, I strive to have a curated 
 
 [![Easy Stock Data](https://i.imgur.com/rcSzz3g.png)](https://play.google.com/store/apps/details?id=com.atahanuz.easy_stock_data)
 
-Documentation: https://medium.com/@atahanuz/released-easy-stock-data-8a4528b50965
+Documentation: [Medium](https://medium.com/@atahanuz/released-easy-stock-data-8a4528b50965)
 
 ## Web Applications
 ### Postgres Practice
