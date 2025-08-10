@@ -5,30 +5,6 @@ Last updated: 2025-26-05
 ##### [--> My Design Philosophy <--](design_philosophy.md)
 Welcome to my software and academic portfolio. Here, I strive to have a curated portfolio and only list my software meeting the highest quality standarts. You can check my [repositories](https://github.com/atahanuz?tab=repositories) to see all of my projects.<br>
 
-##  Public Large Language Models
-
-<table>
-  <tr>
-    <td valign="middle">
-      Discover the <b>COSMOS AI Research Group</b> of YTU Computer Engineering where we're releasing cutting edge Turkish LLMs and publishing research papers ! 
-  <br><br>
-  <a href="https://www.linkedin.com/company/ytu-cosmos/">https://www.linkedin.com/company/ytu-cosmos/</a>  <br><br>
-  <a href="https://huggingface.co/ytu-ce-cosmos/">https://huggingface.co/ytu-ce-cosmos/</a> 
-    </td>
-    <td>
-      <img src="https://i.imgur.com/vDaiuWU.png" width="47%" height="20%">
-    </td>
-  </tr>
-</table>
-
-##  Research Papers
-
-  <a href="https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ">🥳 My Google Scholar!</a> 
-  <br>
-<img src="https://i.imgur.com/bjeKfoF.png" width="55%" >
-
-
-
 ## Mobile Apps:
 ### Easy Stock Data
 **An Android app for easily viewing extensive data on US and international stocks**
