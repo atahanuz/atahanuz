@@ -5,9 +5,6 @@ Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master'
 
 # My Personal Website: https://atahanuz.com
 
-![COSMOS](https://i.imgur.com/qaAk4tc.png)
-
-Check out the official mobile app of COSMOS: <a href="https://onelink.to/qg8rda">Google Pla y& App Store</a> 
 
 
 # 🔥[--> My Software Portfolio <--](portfolio.md)
