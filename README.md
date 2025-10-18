@@ -1,13 +1,13 @@
 ## Hello
 
-Hi I am Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering.
+Hi I'm Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering.
 <br>
 
-# My Personal Website & CV: https://atahanuz.com
+# Portfolio & CV: https://atahanuz.com
+
+## Boğaziçi TabiLab NLP Research Lab: https://tabilab.cmpe.bogazici.edu.tr
 
 
-
-# 🔥[--> My Software Portfolio <--](portfolio.md)
 
 ### [--> My Medium Blog: Technology, Music and Life <--](https://scholar.google.com/citations?hl=tr&user=606MytcAAAAJ)
 ####  [🎶 Spotify Translator ](https://github.com/atahanuz/spotify-translator/)
