@@ -1,6 +1,6 @@
 ## Hello
 
-Hi I'm Atahan, I am a Data Scientist at Odeon Software & Technology and Master's student at Boğaziçi University Computer Engineering.
+Hi I'm Atahan, I am a Master's student at Boğaziçi University Computer Engineering and Data Scientist at Odeon Software & Technology.
 <br>
 
 # Portfolio & CV: https://atahanuz.com
