@@ -3,7 +3,7 @@
 Hi I'm Atahan, I am a Master's student at Boğaziçi University Computer Engineering and Data Scientist at Odeon Software & Technology.
 <br>
 
-# Portfolio & CV: https://atahanuz.com
+# Personal Website & CV: https://atahanuz.com
 
 ## Boğaziçi TabiLab NLP Research Lab: https://tabilab.cmpe.bogazici.edu.tr
 
